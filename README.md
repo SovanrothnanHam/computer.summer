@@ -1,5 +1,2 @@
 # computer.summer
-welcome to happy world my name is am
-...
-hi
-...
+my name is am
